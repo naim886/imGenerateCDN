@@ -7,8 +7,8 @@ A fast, free, and customizable image placeholder generator for developers and de
 ## instalation 
 It's more than easy to integrate [imGenerate](https://imgenerate.com) to your web site. Add this `CDN` on your web site. it's just plug and play.
 
-```
-https://cdn.jsdelivr.net/gh/naim886/imGenerateCDN@main/0.0.1/dist/imGenerate.min.js
+```html
+<script src="https://cdn.jsdelivr.net/gh/naim886/imGenerateCDN@main/0.0.1/dist/imGenerate.min.js"></script>
 ```
 
 #### And see the magic!
